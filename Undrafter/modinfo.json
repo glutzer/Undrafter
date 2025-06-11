@@ -1,0 +1,16 @@
+{
+  "type": "code",
+  "modid": "undrafter",
+  "name": "Undrafter",
+  "authors": [
+    "sneeze"
+  ],
+  "description": "Downloads mods from sources other than the db when connecting",
+  "version": "1.2.0",
+  "dependencies": {
+    "game": ""
+  },
+  "RequiredOnServer": true,
+  "RequiredOnClient": true,
+  "websiteid": "undrafter"
+}
